@@ -53,7 +53,7 @@ var jsFrontendVisibilityAPI =
 	 *
 	 * @return string Possible results are: 'hidden', 'visible', 'prerender' or 'unloaded'
 	 */
-	getVisibilityState: function()
+	getState: function()
 	{
 		// init property
 		var property = jsFrontendVisibilityAPI.prefix;

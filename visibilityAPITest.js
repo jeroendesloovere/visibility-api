@@ -10,10 +10,7 @@ var jsFrontendVisibilityAPITest =
 		// bind visibility change
 		document.addEventListener(jsFrontendVisibilityAPI.prefix + 'visibilitychange', function(e)
 		{
-			if(jsFrontendVisibilityAPI.isHidden())
-			{
-				console.log(jsFrontendVisibilityAPI.getVisibilityState());
-			}
+			document.title = jsFrontendVisibilityAPI.getState();
 		}, false);
 	}
 };
