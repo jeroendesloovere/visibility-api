@@ -5,7 +5,7 @@ This jQuery Page Visibility API allows you to check the websites browser tab vis
 
 ## Contributing
 
-It would be great if you could help us improve the module. GitHub does a great job in managing collaboration by providing different tools, the only thing you need is a [GitHub](http://github.com) login.
+It would be great if you could help us improve this API. GitHub does a great job in managing collaboration by providing different tools, the only thing you need is a [GitHub](http://github.com) login.
 
 * Use **Pull requests** to add or update code
 * **Issues** for bug reporting or code discussions
